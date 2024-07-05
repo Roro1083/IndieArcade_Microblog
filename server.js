@@ -108,7 +108,6 @@ app.use(passport.session());
 
 // Replace any of these variables below with constants for your application. These variables
 // should be used in your template files. 
-// 
 app.use((req, res, next) => {
     res.locals.appName = 'IndieArcade';
     res.locals.copyrightYear = 2024;
