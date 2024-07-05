@@ -37,7 +37,6 @@ passport.use(new GoogleStrategy({
     return done(null, profile);
 }));
 
-
 passport.serializeUser((user, done) => {
     done(null, user);
 });
