@@ -67,7 +67,10 @@ During the development of IndieArcade, I primarily contributed to the front-end 
   - Unfortunately, the original account owner is unavailable to provide updates.
   - If you'd like to set up your own credentials to test this feature locally, please refer to [Google Cloud Console Setup Guide](https://console.cloud.google.com/).
   - For a demonstration of this feature, please see the demo video below!
- 
+- **Tag Filtering**
+  - Clicking on a tag is intended to display all posts associated with that tag.
+  - However, this feature is currently non-functional in the deployment and may cause the application to crash.
+  - This issue will be addressed in a future update, but a demonstration of this feature can be viewed in the demo video!
 ---
 
 ## Demo Video
