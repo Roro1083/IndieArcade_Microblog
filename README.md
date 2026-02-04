@@ -60,7 +60,7 @@ During the development of IndieArcade, I primarily contributed to the front-end 
 
 ---
 
-## Known Issues
+## Current Limitations & Next Steps
 
 - **Google Authentication**
   - Currently, Google Authentication does not work on Render due to missing access to the Google Cloud console settings.
