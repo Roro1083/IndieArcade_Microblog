@@ -97,7 +97,7 @@ git clone https://github.com/Roro1083/IndieArcade_Microblog.git
 cd IndieArcade_Microblog
 ```
 2. **Install Dependencies**
-In the terminal, type the following to install dependencies:
+- In the terminal, type the following to install dependencies:
 ```bash
 npm install
 ```
